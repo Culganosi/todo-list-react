@@ -1,4 +1,4 @@
-import TodoForm from "./components/TodoForm";
+import './App.css'
 import TodoList from "./components/TodoList";
 
 
